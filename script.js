@@ -3,7 +3,7 @@ const colorToggle = document.getElementById("color-toggle-input");
 
 // Typing effect with typed.js
 const typed = new Typed(".animate", {
-  strings: ["Student.", "Coder.", "Loner.", "GGMU Fan."],
+  strings: ["Student.", "Coder.", "Freelancer.", "GGMU Fan."],
   typeSpeed: 100,
   backSpeed: 100,
   loop: true,
